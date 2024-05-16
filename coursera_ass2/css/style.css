@@ -1,0 +1,26 @@
+.dog_collection{
+    display: flex;
+    justify-content: space-around;
+}
+.resize{
+    width: 300px;
+    height: 300px;
+}
+.header_ti{
+    text-align: center;
+}
+#header_ti{
+    line-height:650px;
+	width: 575px;
+    height: 650px;
+	border:0px solid black;
+	margin:0 auto;
+    background-color: #3f3f3f;
+    background-image: url('');
+    background-repeat: no-repeat;
+    color:#FFFFFF;
+    text-align: center;
+    background-size: 100%;
+    margin-bottom:25px;
+    font-size: 150%;
+}
